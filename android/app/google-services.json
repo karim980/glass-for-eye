@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "112909815328",
+    "project_id": "glass-for-eye",
+    "storage_bucket": "glass-for-eye.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:112909815328:android:e4e8e7cef363ccb47cb645",
+        "android_client_info": {
+          "package_name": "com.example.flutter_sun_eye"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrHJLu7ai8my3uOHAypqAvXCZYezrWVXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
